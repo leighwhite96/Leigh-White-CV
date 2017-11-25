@@ -52,4 +52,4 @@ For more projects please see my website or look through my GitHub!
 
 **At the School of Code I've enjoyed bouldering and I've played a lot of pool, chess and poker** _(despite not being good at any of them)_
 
-**Tech meetups** _I have found them to be a great way to meet people in the industry and learn from others_
+**Tech meetups** - _I have found them to be a great way to meet people in the industry and learn from others_
