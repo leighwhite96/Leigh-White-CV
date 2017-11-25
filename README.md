@@ -1,6 +1,6 @@
 # Leigh White
 
-[Projects](#Projects) | [Education](#Education) | [Blog](https://medium.com) | [LinkedIn](https://www.linkedin.com) |
+[Projects](#projects) | [Education](#education) | [Blog](https://medium.com) | [LinkedIn](https://www.linkedin.com) |
 [Twitter](https://twitter.com) [Github](https://github.com)
 
 Hi! I am a Full Stack Junior React Developer and bootcamper at the School of Code in Birmingham.
